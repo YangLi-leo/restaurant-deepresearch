@@ -1,5 +1,7 @@
 # Restaurant Deep Research
 
+English | [简体中文](README.zh-CN.md)
+
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Docker](https://img.shields.io/badge/Docker-Required-blue.svg)](https://www.docker.com/get-started)
