@@ -123,25 +123,19 @@ When you run the application, you'll receive structured restaurant recommendatio
 ```
 === Restaurant Recommendations ===
 
-Based on your request for a casual yet authentic Japanese restaurant near Shibuya Station in Tokyo, I've found several excellent options that match your criteria:
+Based on your request for Japanese restaurants (Sushi, Ramen, or Izakaya) near Shibuya Station for dinner tonight, with a budget of ¥2,000–¥4,000 per person and a preference for a casual, authentic, enjoyable, and not-too-fancy atmosphere with good reviews, here are the top two recommendations:
 
-1. **Genki Sushi Shibuya**
-   - **Location**: 5-minute walk from Shibuya Station
-   - **Price Range**: ¥1,500-3,000 per person
-   - **Highlights**: Conveyor belt sushi, touch-panel ordering system, fresh ingredients
-   - **Atmosphere**: Casual, lively, popular with locals and tourists
-   - **Recommended Dishes**: Salmon nigiri, tuna rolls, tempura
+1.  **Gochi Shibuya**
+    *   **Cuisine:** Yakitori / Izakaya
+    *   **Address:** Japan, 〒150-0042 Tokyo, Shibuya, Udagawachō, 13−９ Kn Shibuya Bldg. I, B1F
+    *   **Why it's recommended:** This highly-rated (4.5 stars) spot strongly aligns with your desire for a casual and authentic atmosphere. Reviewers describe it as a small, local Izakaya specializing in delicious Yakitori (grilled skewers). It offers an "honest local place full of soul" vibe, fitting the "not too fancy" requirement perfectly. Dining here should comfortably fit within the ¥2,000–¥4,000 budget. It's ideal if you're looking for an authentic Izakaya experience.
 
-2. **Ichiran Shibuya**
-   - **Location**: 7-minute walk from Shibuya Station
-   - **Price Range**: ¥1,000-2,000 per person
-   - **Highlights**: Famous tonkotsu ramen, individual booths for private dining
-   - **Atmosphere**: Focused on the dining experience, minimal distractions
-   - **Recommended Dishes**: Classic tonkotsu ramen with customizable spice level
+2.  **Oreryu Shio-ramen Shibuya-main store**
+    *   **Cuisine:** Ramen (specializing in Shio/salt-based broth)
+    *   **Address:** 1-chōme-22-8 Dōgenzaka, Shibuya, Tokyo 150-0043, Japan
+    *   **Why it's recommended:** If you prefer Ramen, this is an excellent choice that meets your criteria. It provides a classic, casual, and authentic local ramen shop experience, complete with vending machine ordering. It's very budget-friendly (likely under ¥2,000 per person), well below your maximum budget. Reviews are positive (4.3 stars), praising the flavorful ramen, especially the Shio and seafood options. It perfectly fits the casual and authentic atmosphere preference.
 
-[Additional restaurants would be listed here...]
-
-These restaurants offer excellent value, authentic Japanese flavors, and are conveniently located near Shibuya Station. Each has good reviews from locals and provides an enjoyable dining atmosphere without being overly fancy.
+Both restaurants are located near Shibuya Station, are suitable for dinner, have good reviews, and match the desired casual and authentic atmosphere. Gochi Shibuya offers an Izakaya experience likely in the mid-range of your budget, while Oreryu Shio-ramen provides an authentic Ramen experience at the lower end of your budget.
 ```
 
 ## Project Structure
