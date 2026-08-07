@@ -1,0 +1,2 @@
+TETRAL_MCP_PROOF
+Fixture file for the rehearsal MCP case. Safe to overwrite.
