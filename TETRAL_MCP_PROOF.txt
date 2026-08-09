@@ -1,2 +1,3 @@
 TETRAL_MCP_PROOF
+TETRAL_MCP_WRITE_OK
 Fixture file for the rehearsal MCP case. Safe to overwrite.
